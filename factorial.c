@@ -16,5 +16,5 @@ int main()
 	int x;
 	scanf("%d",&x);
 	long long y=fact(x);
-	printf("%lld",y);
+	printf("your answer is ::%lld",y);
 }
